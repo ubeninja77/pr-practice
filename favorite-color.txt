@@ -1,2 +1,9 @@
-my favorite color is red.
-it reminds me of courage and and the beautiful leaves in fall.
+my favorite color:
+Red,
+Bule,
+Green.
+
+my favorite color:
+Red.
+It reminds me of courage and and the beautiful leaves in fall.
+
